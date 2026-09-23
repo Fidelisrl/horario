@@ -46,7 +46,7 @@
 | Terça | Tarefa álgebra booleana + Fazer Slides da Apresentação PI |
 | Quarta | Pensamento computacional + Relatório |
 | Quinta | Atividades POO e Álgebra Linear Atividades Extras |
-| Sexta | Inglês |
+| Sexta | Inglês + descanso|
 
 </div>
 
@@ -57,9 +57,9 @@
 | :---: | :---: |
 | Segunda | Monitoria londrinense tech + Relatório e Estudar para Projeto Álgebra Booleana |
 | Terça | Tarefa álgebra booleana + Finalizar site PI e Preparar pra Apresentação |
-| Quarta | Pensamento computacional + Relatório e Estudar para Análise de Algoritimos |
+| Quarta | Pensamento computacional + Relatório e Estudar para Análise de Algoritmos |
 | Quinta | Atividade Revisão Prova POO e Estudar para Prova Prática |
-| Sexta | Inglês |
+| Sexta | Inglês + descanso|
 
 </div>
 
@@ -73,5 +73,18 @@
 | Quarta | Pensamento computacional + Relatório |
 | Quinta | Estudar Para Álgebra Linear refazendo exercícios da Lista |
 | Sexta | Inglês |
+
+</div>
+
+<p align="center">21/09/2026 a 25/09/2026</p>
+<div align="center">
+
+| | |
+| :---: | :---: |
+| Segunda | Monitoria londrinense tech + Relatório |
+| Terça | Descanso |
+| Quarta | Pensamento computacional + Relatório |
+| Quinta | Estudar para prova de Inglês |
+| Sexta | Inglês + descanso |
 
 </div>
